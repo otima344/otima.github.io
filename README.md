@@ -1,2 +1,2 @@
-# Tkotima.github.io
+# otima.github.io
 # Hello World!!
